@@ -1,0 +1,12 @@
+[
+  {
+    "name": "pjsekai",
+    "version": 4,
+    "title": "EPIL@3AM",
+    "subtitle": "Official Rhythm Client",
+    "author": "EPIL3AM Team",
+    "thumbnail": "pack/engines/pjsekai/thumbnail.png",
+    "data": "pack/engines/pjsekai/data",
+    "configuration": "pack/engines/pjsekai/configuration"
+  }
+]
