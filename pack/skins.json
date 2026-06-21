@@ -1,0 +1,12 @@
+[
+  {
+    "name": "epil3am-skin",
+    "version": 2,
+    "title": "EPIL@3AM Default Skin",
+    "subtitle": "Custom Interface Texture",
+    "author": "EPIL3AM Team",
+    "thumbnail": "pack/skins/epil3am-skin/thumbnail.png",
+    "data": "pack/skins/epil3am-skin/skin-data",
+    "texture": "pack/skins/epil3am-skin/skin-texture.png"
+  }
+]
